@@ -38,16 +38,6 @@
 - **React Native - Advanced Concepts** | [Coursera](https://www.coursera.org/)
 - **Google Associate Android Developer** | [Google](https://developers.google.com/)
 
----
-
-### 🏆 Achievements
-
-- **Top Contributor** on [GitHub](https://github.com/chadi-znina) with over 50+ contributions in the last year.
-- **Featured App Developer** on [Flutter Awesome](https://flutterawesome.com/) for outstanding app designs.
-- **Speaker** at Tunisia Mobile Dev Conference 2023 on "Optimizing Flutter Apps for Performance."
-
----
-
 ### 🚀 Fun Projects I Have Worked On
 
 - [**Moovance**] - A dynamic React Native app that revolutionizes urban mobility by integrating multiple transportation modes into a single platform.
