@@ -13,22 +13,35 @@
 
 ### 🧰 Skills & Technologies
 
-#### **Mobile Development**
-- **Flutter** & **Dart**: Building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-- **React Native**: Crafting dynamic and responsive mobile apps with JavaScript and React.
-
-#### **Frontend Development**
-- **JavaScript** & **TypeScript**: Writing clean and efficient code for interactive user interfaces.
-- **React.js**: Developing scalable web applications with component-based architecture.
-
-#### **Backend Development**
-- **Node.js** & **Express.js**: Creating robust APIs and server-side logic.
-- **Firebase**: Implementing real-time databases, authentication, and cloud functions.
-
-#### **Design & Tools**
-- **Git & GitHub**: Version control and collaborative development.
-- **Figma**: Designing intuitive UI/UX interfaces.
-- **JIRA & Trello**: Managing projects and workflows efficiently.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="30" alt="React Native logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="JIRA logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="30" alt="Trello logo" />
+</div>
 
 ---
 
@@ -38,16 +51,25 @@
 - **React Native - Advanced Concepts** | [Coursera](https://www.coursera.org/)
 - **Google Associate Android Developer** | [Google](https://developers.google.com/)
 
+---
+
 ### 🚀 Fun Projects I Have Worked On
 
-- [**Moovance**] - A dynamic React Native app that revolutionizes urban mobility by integrating multiple transportation modes into a single platform.
+- [**Moovance**](https://github.com/chadiznina/moovance) - A dynamic React Native app that revolutionizes urban mobility by integrating multiple transportation modes into a single platform.
   
   ![Moovance Screenshot](https://via.placeholder.com/400x200.png?text=Moovance+App+Screenshot)
 
-- [**PadelNow**] -  A Flutter-based application that connects padel enthusiasts, allowing users to find nearby courts, book matches, and join local communities.
+- [**PadelNow**](https://github.com/chadiznina/padelnow) - A Flutter-based application that connects padel enthusiasts, allowing users to find nearby courts, book matches, and join local communities.
   
   ![PadelNow Screenshot](https://via.placeholder.com/400x200.png?text=PadelNow+App+Screenshot)
 
+---
+
+### 📈 GitHub Stats
+
+![Chadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadiznina&show_icons=true&theme=radical)
+
+---
 
 ### 🔗 Find Me Online
 
@@ -55,13 +77,13 @@
   <img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg" height="35" alt="ship it badge" />
   
   <a href="mailto:chadiznina20@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/chadi-znina-217835149" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/chadiznina" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
   </a>
 </p>
 
@@ -77,5 +99,5 @@ I'm always excited to collaborate on innovative projects or contribute to open-s
 <p align="left">
   <a href="https://www.linkedin.com/in/chadi-znina-217835149" target="_blank">LinkedIn</a> | 
   <a href="mailto:chadiznina20@gmail.com">Email</a> | 
-  <a href="https://github.com/chadiznina" target="_blank">GitHub</a> | 
+  <a href="https://github.com/chadiznina" target="_blank">GitHub</a>
 </p>
