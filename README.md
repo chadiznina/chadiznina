@@ -61,14 +61,6 @@
   
   ![PadelNow Screenshot](https://via.placeholder.com/400x200.png?text=PadelNow+App+Screenshot)
 
----
-
-### 📈 GitHub Stats
-
-![Chadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadiznina&show_icons=true&theme=radical)
-
----
-
 ### 🔗 Find Me Online
 
 <p align="left">
